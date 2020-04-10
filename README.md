@@ -1,8 +1,8 @@
 # WhatchaWannaWatch
 
 ## Tutorial
-Netflix doesn't display movies ratings, probably because some intern broke the code<br><br>
-Despite the inconvenience caused by having to look up each movie's rating, this app offers to generate a list of current available Netflix movies and their IMDb ratings, ordered from the highest to lowest.<br><br>
+Netflix doesn't display their movies' ratings, probably because some intern broke the code<br><br>
+Despite the inconvenience caused by having to look up each movie's ratings, this WhatchaWannaWatch app offers to generate a list of current available Netflix movies and their IMDb ratings, ordered from the highest to lowest.<br><br>
 `git clone` this repo on your machine and run `python3 getMoviesSorted.py [yourPreferredGenre]` to find out what you wanna watch tonight<br>
 <br>
 yourPreferredGenre options as of now:
@@ -38,7 +38,7 @@ Beautiful Soup:<br>
 HTML Parser
 
 ## Future Improvements & Plans
-incorporate the application with iOS/Android development
+iOS/Android application development
 
 ## Output Example
 `python3 getMoviesSorted.py thriller`<br><br>
