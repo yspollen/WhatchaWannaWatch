@@ -21,7 +21,7 @@ def getMoviesFromNetflix(genre):
 		url += '5763?bc='
 	elif (genre == 'faith'):
 		url += '26835?bc='
-	elif (genre == 'history_documentaries'):
+	elif (genre == 'history'):
 		url += '81268388?bc='
 	elif (genre == 'horror'):
 		url += '8711?bc='
@@ -45,6 +45,9 @@ def getMoviesFromNetflix(genre):
 		url += '11559?bc='
 	elif (genre == 'thriller'):
 		url += '8933?bc='
+	elif (genre == 'all'):
+		url = url
+		hehe = 'hehe'
 
 	url += '34399'
 
