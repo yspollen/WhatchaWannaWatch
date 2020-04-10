@@ -41,7 +41,7 @@ HTML Parser
 incorporate the application with iOS/Android development
 
 ## Output Example
-`python3 getMoviesSorted.py thriller<br><br>
+python3 getMoviesSorted.py thriller<br><br>
 The Invisible Guest: 8.1<br>
 Freaks: 7.9<br>
 The Hateful Eight: 7.8<br>
@@ -60,4 +60,4 @@ The Silence: 5.3<br>
 The Roommate: 4.8<br>
 The Ghost Who Walks: 4.5<br>
 Secret Obsession: 4.3<br>
-Pretty Little Stalker: 3.0<br>`
+Pretty Little Stalker: 3.0<br>
