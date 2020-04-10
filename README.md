@@ -38,26 +38,29 @@ Beautiful Soup:<br>
 HTML Parser
 
 ## Future Improvements & Plans
-iOS/Android application development
+fetch movie posters for visual convenience<br>
+iOS/Android application development<br>
 
 ## Output Example
-python3 getMoviesSorted.py thriller<br><br>
-The Invisible Guest: 8.1<br>
-Freaks: 7.9<br>
-The Hateful Eight: 7.8<br>
-Road to Perdition: 7.7<br>
-El Camino: A Breaking Bad Movie: 7.4<br>
-Limitless: 7.4<br>
-Shot Caller: 7.3<br>
-The Platform: 7.0<br>
-Bird Box: 6.6<br>
-Fractured: 6.3<br>
-1922: 6.3<br>
-93 Days: 6.1<br>
-A Fall from Grace: 5.8<br>
-In the Tall Grass: 5.4<br>
-The Silence: 5.3<br>
-The Roommate: 4.8<br>
-The Ghost Who Walks: 4.5<br>
-Secret Obsession: 4.3<br>
-Pretty Little Stalker: 3.0<br>
+python3 getMoviesSorted.py action<br><br>
+Inception: 8.8<br>
+The Good, the Bad and the Ugly: 8.8<br>
+The Matrix: 8.7<br>
+Avengers: Infinity War: 8.5<br>
+Spider-Man: Into the Spider-Verse: 8.4<br>
+Inglourious Basterds: 8.3<br>
+Kung Fu Hustle: 7.7<br>
+Lethal Weapon: 7.6<br>
+End of Watch: 7.6<br>
+Sherlock Holmes: 7.6<br>
+Train to Busan: 7.5<br>
+Ala Vaikunthapurramuloo: 7.2<br>
+The Foreigner: 7.0<br>
+Paid in Full: 7.0<br>
+Bad Boys: 6.9<br>
+What Happened to Monday: 6.9<br>
+A.X.L.: 6.9<br>
+Bloodsport: 6.8<br>
+The Decline: 6.7<br>
+Lethal Weapon 3: 6.7<br>
+
