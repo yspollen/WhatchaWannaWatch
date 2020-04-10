@@ -7,4 +7,5 @@ def getImdbRating(movie):
 	try:
 		return r.json()["imdbRating"]
 	except:
+		print("omdiapi error, movie not found: " + movie)
 		pass

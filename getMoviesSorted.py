@@ -23,6 +23,10 @@ def printMoviesSorted(genre):
 		print(movie.title + ": " + str(movie.imdbRating))
 
 def main(argv):
-	printMoviesSorted(argv[1])
+	if (len(argv) == 2):
+		printMoviesSorted(argv[1])
+	else:
+		print("Invalid Input.")
 
-main(sys.argv)
+if __name__ == '__main__':
+	main(sys.argv)
