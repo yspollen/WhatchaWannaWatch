@@ -38,7 +38,7 @@ Beautiful Soup:<br>
 HTML Parser
 
 ## Future Improvements & Plans
-incorporate the application with iOS/Android development
+iOS/Android application development
 
 ## Output Example
 python3 getMoviesSorted.py thriller<br><br>
