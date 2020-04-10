@@ -63,4 +63,8 @@ def getMoviesFromNetflix(genre):
 	titles = []
 	for row in rows:
 		titles.append(row.text)
-	return titles[3:33]
+
+	if (len(titles) >= 53):
+		return titles[3:53]
+	else:
+		return titles[3:]

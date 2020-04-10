@@ -12,11 +12,15 @@ def getMoviesSorted(genre):
 	movies = []
 	for title in titles:
 		rating = getImdbRating(title)
-		if (rating):
+		if (rating and rating != 'N/A'):
 			movie = Movie(title, getImdbRating(title))
 			movies.append(movie)
 	movies.sort(key=lambda movie: movie.imdbRating, reverse=True)
-	return movies
+
+	if (len(movies) >= 20):
+		return movies[0:20]
+	else:
+		return movies
 
 def printMoviesSorted(genre):
 	for movie in getMoviesSorted(genre):
