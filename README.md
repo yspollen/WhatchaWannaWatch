@@ -5,26 +5,18 @@ Netflix doesn't display movies ratings, probably because some intern broke the c
 Despite the inconvenience caused by having to look up each movie's rating, this app offers to generate a list of current available Netflix movies and their IMDb ratings, ordered from the highest to lowest.<br><br>
 `git clone` this repo on your machine and run `python3 getMoviesSorted.py [yourPreferredGenre]` to find out what you wanna watch tonight<br>
 <br>
-yourPreferredGenre options as of now:
+yourPreferredGenre options:
 - all
 - action
 - children
 - classics
 - comedies
-- crime
-- cult
-- documentary
 - dramas
 - faith
-- history
 - horror
-- independent
-- international
-- LGBTQ
 - musicals
 - romantic
 - scifi
-- nature
 - sports
 - standup
 - thriller
