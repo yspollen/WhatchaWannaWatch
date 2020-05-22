@@ -1,6 +1,7 @@
 # WhatchaWannaWatch
 ## Live Site [Update]
-https://whatcha-wanna-watch.herokuapp.com/
+https://whatcha-wanna-watch.herokuapp.com/<br>
+May take 5-10 seconds to load from a cold boot
 
 
 ## Tutorial
